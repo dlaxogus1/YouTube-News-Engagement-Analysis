@@ -96,9 +96,9 @@
 │   ├── KBS.R
 │   └── visualization.R
 └── figures
-    ├── figure1.png
-    ├── figure2.png
-    └── figure3.png
+    ├── 조회수와 좋아요 수 관계.png
+    ├── 조회수와 댓글 수 관계.png
+    └── 채널 평균 조회수.png
 ```
 
 ---
